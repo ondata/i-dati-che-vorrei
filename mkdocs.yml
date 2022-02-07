@@ -15,15 +15,6 @@ theme:
   palette:
     - scheme: preference
       primary: blue
-#      toggle:
-#        icon: material/weather-night
-#        name: Switch to dark mode
-#    - scheme: slate
-#      primary: indigo
-#      accent: indigo
-#      toggle:
-#        icon: material/weather-sunny
-#        name: Switch to light mode
 
   language: it
   favicon: images/favicon.png
@@ -47,6 +38,13 @@ extra_css:
 # menu
 nav:
   - Home: index.md
+  - I dati che vorrei:
+    - Premessa: dati_che_vorrei/index.md
+    - Dati: dati_che_vorrei/dati.md
+    - Come li vorrei: dati_che_vorrei/come_li_vorrei.md
+    - Etica dei dati: dati_che_vorrei/etica_dei_dati.md
+  - Partecipa: partecipa.md
+  - Informazioni: informazioni.md
 
 #extra:
 #  social:
