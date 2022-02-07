@@ -1,0 +1,111 @@
+site_name: I dati che vorrei
+site_url: https://vorrei.datibenecomune.it/
+site_description: Lorem ipsum
+
+
+repo_url: https://github.com/ondata/i-dati-che-vorrei
+repo_name: i-dati-che-vorrei
+edit_uri: edit/master/docs/
+
+copyright: '<b>I dati che vorrei</b> è un progetto dell''<a href="https://ondata.it/" target="_blank">Associazione onData</a> | licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
+
+theme:
+  name: material
+  highlightjs: true
+  palette:
+    - scheme: preference
+      primary: blue
+#      toggle:
+#        icon: material/weather-night
+#        name: Switch to dark mode
+#    - scheme: slate
+#      primary: indigo
+#      accent: indigo
+#      toggle:
+#        icon: material/weather-sunny
+#        name: Switch to light mode
+
+  language: it
+  favicon: images/favicon.png
+  icon:
+    logo: fontawesome/solid/info-circle
+  features:
+    - navigation.top
+#    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.tracking
+    - navigation.indexes
+  font:
+    text: Montserrat
+  custom_dir: overrides
+
+# foglio di stile personalizzato
+extra_css:
+  - stylesheets/style.css
+
+# menu
+nav:
+  - Home: index.md
+
+#extra:
+#  social:
+#    - icon: fontawesome/solid/rss
+#      link: https://arigadicomando.it/feed_rss_created.xml
+#      name: Feed RSS
+
+plugins:
+- search:
+      lang: it
+- mkdocstrings
+- charts
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - javascripts/varie.js
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+
+markdown_extensions:
+- admonition
+- attr_list
+- footnotes
+- meta
+- mkdocs-click
+- pymdownx.betterem:
+      smart_enable: all
+- pymdownx.caret
+- pymdownx.critic:
+      mode: view
+- pymdownx.details
+- pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+- pymdownx.highlight
+- pymdownx.mark
+- pymdownx.smartsymbols
+- pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+- pymdownx.tabbed:
+      alternate_style: true
+- pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+- pymdownx.tilde
+- toc:
+      permalink: true
+      toc_depth: 3
+- pymdownx.arithmatex:
+      generic: true

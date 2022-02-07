@@ -1,0 +1,17 @@
+name: ci
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material markdown mkdocstrings mkdocs-rss-plugin mkdocs-mermaid2-plugin mkdocs-click mkdocs-charts-plugin mkdocs-table-reader-plugin
+      - run: mkdocs gh-deploy --force

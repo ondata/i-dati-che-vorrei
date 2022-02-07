@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+
+{% block announce %}
+  <!-- Add announcement here, including arbitrary HTML -->
+  <p>Iscriviti alla <b><a style="color:#ff9100 !important;" href="https://www.getrevue.co/profile/ondata">newsletter di onData</a></b>
+    <span class="twemoji">
+        {% include ".icons/material/email.svg" %}
+    </span>
+  </p>
+{% endblock %}
+
+{% block extrahead %}
+<!-- Open Graph / Facebook -->
+    {% if page and page.meta and page.meta.og_title %}
+        <meta property="og:title" content="{{ page.meta.og_title }}" />
+    {% elif page and page.meta and page.meta.title %}
+        <meta property="og:title" content="{{ page.meta.title }}" />
+    {% else %}
+        <meta property="og:title" content="{{ page.title|striptags }}" />
+    {% endif %}
+
+    {% if page and page.meta and page.meta.og_type %}
+        <meta property="og:type" content="{{ page.meta.og_type }}" />
+    {% else %}
+        <meta property="og:type" content="website" />
+    {% endif %}
+
+        <meta property="og:url" content="{{ page.canonical_url }}" />
+
+    {% if page and page.meta and page.meta.og_image %}
+        <meta property="og:image:url" content="{{ config.site_url ~ 'images/' ~ page.meta.og_image }}" />
+    {% else %}
+        <meta property="og:image:url" content="{{ config.site_url ~ 'images/preview.png' }}" />
+    {% endif %}
+
+    {% if page and page.meta and page.meta.og_image_type %}
+        <meta property="og:image:type" content="{{ page.meta.og_image_type}}" />
+    {% else %}
+        <meta property="og:image:type" content="image/png" />
+    {% endif %}
+
+    {% if page and page.meta and page.meta.description %}
+        <meta property="og:description" content="{{ page.meta.description }}">
+    {% elif config.site_description %}
+        <meta property="og:description" content="{{ config.site_description }}">
+    {% endif %}
+
+
+<!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="{{ page.canonical_url }}">
+    {% if page and page.meta and page.meta.og_title %}
+        <meta property="twitter:title" content="{{ page.meta.og_title }}">
+    {% elif page and page.meta and page.meta.title %}
+        <meta property="twitter:title" content="{{ page.meta.title }}">
+    {% else %}
+        <meta property="twitter:title" content="{{ page.title|striptags }}">
+    {% endif %}
+    {% if page and page.meta and page.meta.description %}
+        <meta property="twitter:description" content="{{ page.meta.description }}">
+    {% elif config.site_description %}
+        <meta property="twitter:description" content="{{ config.site_description }}">
+    {% endif %}
+
+    {% if page and page.meta and page.meta.og_image %}
+        <meta property="twitter:image" content="{{ config.site_url ~ 'images/' ~ page.meta.og_image }}">
+    {% else %}
+        <meta property="twitter:image" content="{{ config.site_url ~ 'images/preview.png' }}">
+    {% endif %}
+
+        <meta property="og:locale" content="it-IT" />
+{% endblock %}

@@ -1,0 +1,75 @@
+/* link nel footer */
+.md-footer-copyright__highlight a {
+  color:#5A72FF !important;
+}
+
+/* colore righe pari */
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+[data-md-color-scheme='slate'] tr:nth-child(even) {
+  color: #e28409 !important;
+}
+
+/* colore background intestazione tabella */
+div.md-typeset__table thead {
+  background-color: #b6c1ff;
+}
+
+/*font per i titoli nelle pagine*/
+
+article h1,h2,h3,h4 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgba(0,0,0,.74) !important;
+}
+
+/* font per le tabelle */
+
+div.md-typeset__table td {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*stili per le admonition*/
+
+:root {
+  --md-admonition-icon--comando: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M257.981 272.971 63.638 467.314c-9.373 9.373-24.569 9.373-33.941 0L7.029 444.647c-9.357-9.357-9.375-24.522-.04-33.901L161.011 256 6.99 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L257.981 239.03c9.373 9.372 9.373 24.568 0 33.941zM640 456v-32c0-13.255-10.745-24-24-24H312c-13.255 0-24 10.745-24 24v32c0 13.255 10.745 24 24 24h304c13.255 0 24-10.745 24-24z"></path></svg>')
+}
+.md-typeset .admonition.comando,
+.md-typeset details.comando {
+  border-color: rgb(170,170,170);
+}
+.md-typeset .comando > .admonition-title,
+.md-typeset .comando > summary {
+  background-color: rgba(33,33,33, 0.9);
+  border-color: rgb(170,170,170);
+  color: white;
+  font-family: var(--md-code-font-family);
+}
+.md-typeset .comando > .admonition-title::before,
+.md-typeset .comando > summary::before {
+  background-color: rgb(255, 255, 255);
+  -webkit-mask-image: var(--md-admonition-icon--comando);
+          mask-image: var(--md-admonition-icon--comando);
+}
+
+:root {
+  --md-admonition-icon--aiuto: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.07 11.25-.9.92C13.45 12.89 13 13.5 13 15h-2v-.5c0-1.11.45-2.11 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41a2 2 0 0 0-2-2 2 2 0 0 0-2 2H8a4 4 0 0 1 4-4 4 4 0 0 1 4 4 3.2 3.2 0 0 1-.93 2.25M13 19h-2v-2h2M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10c0-5.53-4.5-10-10-10z"/></svg>')
+}
+.md-typeset .admonition.aiuto,
+.md-typeset details.aiuto {
+  border-color: rgb(205, 248, 255);
+}
+.md-typeset .aiuto > .admonition-title,
+.md-typeset .aiuto > summary {
+  background-color: rgba(0, 184, 212, 0.8);
+  border-color: rgb(205, 248, 255);
+  color: white;
+  font-family: var(--md-code-font-family);
+}
+.md-typeset .aiuto > .admonition-title::before,
+.md-typeset .aiuto > summary::before {
+  background-color: rgb(255, 255, 255);
+  -webkit-mask-image: var(--md-admonition-icon--aiuto);
+          mask-image: var(--md-admonition-icon--aiuto);
+}
+
+
