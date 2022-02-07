@@ -5,7 +5,7 @@ site_description: Lorem ipsum
 
 repo_url: https://github.com/ondata/i-dati-che-vorrei
 repo_name: i-dati-che-vorrei
-edit_uri: edit/master/docs/
+edit_uri: edit/main/docs/
 
 copyright: '<b>I dati che vorrei</b> è un progetto dell''<a href="https://ondata.it/" target="_blank">Associazione onData</a> | licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
 
@@ -44,7 +44,7 @@ nav:
     - Come li vorrei: dati_che_vorrei/come_li_vorrei.md
     - Etica dei dati: dati_che_vorrei/etica_dei_dati.md
   - Partecipa: partecipa.md
-  - Informazioni: informazioni.md
+  - Crediti: crediti.md
 
 #extra:
 #  social:

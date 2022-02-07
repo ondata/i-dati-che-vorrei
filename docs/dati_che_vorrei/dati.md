@@ -5,6 +5,7 @@ hide:
 
 # Progetti finanziati dal PNRR
 
+
 *di [Susanna Ferro](https://www.linkedin.com/in/susanna-ferro/), Alberto Pampalone Morisani, [Luigi Reggi](https://twitter.com/luigireggi)*
 
 Nelle stime relative al Piano Nazionale di Ripresa e Resilienza, si calcola che gran parte dei progetti che verranno finanziati risulteranno (circa il 70%) provenire da investimenti pubblici.
@@ -19,87 +20,87 @@ A titolo meramente esemplificativo si fa riferimento agli obblighi di cui al d.l
 
 In particolare, si richiedono dati sui singoli progetti finanziati con il seguente dettaglio.
 
-  - **Fase di programmazione** (come sono state prese le decisioni di finanziamento?)
+**Fase di programmazione** (come sono state prese le decisioni di finanziamento?)
 
-      - informazioni sui processi di programmazione degli interventi e sulle relative decisioni pubbliche;
+  - informazioni sui processi di programmazione degli interventi e sulle relative decisioni pubbliche;
 
-      - indicazione degli atti pubblici o pubblicazione di minute o analisi alla base delle decisioni prese;
+  - indicazione degli atti pubblici o pubblicazione di minute o analisi alla base delle decisioni prese;
 
-      - informazioni su eventuali Programmi di investimento a cui il progetto si riferisce o è collegato (es. programmi collegati da fonti di finanziamento complementari);
+  - informazioni su eventuali Programmi di investimento a cui il progetto si riferisce o è collegato (es. programmi collegati da fonti di finanziamento complementari);
 
-      - obiettivi di policy collegati al progetto finanziato;
+  - obiettivi di policy collegati al progetto finanziato;
 
-      - decisioni sulle modalità di attuazione (es. bando pubblico vs. individuazione diretta);
+  - decisioni sulle modalità di attuazione (es. bando pubblico vs. individuazione diretta);
 
-      - indicazione se il progetto inserito nel PNRR è “nuovo” o già avviato in precedenza.
+  - indicazione se il progetto inserito nel PNRR è “nuovo” o già avviato in precedenza.
 
 <!-- end list -->
 
-  - **Fase selezione e attivazione dei progetti** (cosa e come viene finanziato?)
+**Fase selezione e attivazione dei progetti** (cosa e come viene finanziato?)
 
-      - procedure amministrative di “attivazione” (es. delibere, bandi, contratti o altre procedure che danno origine al finanziamento);
+  - procedure amministrative di “attivazione” (es. delibere, bandi, contratti o altre procedure che danno origine al finanziamento);
 
-      - denominazione del progetto selezionato;
+  - denominazione del progetto selezionato;
 
-      - Codice Unico Progetto (CUP);
+  - Codice Unico Progetto (CUP);
 
-      - descrizione e obiettivi del progetto (descrizione, in un linguaggio comprensibile ai non addetti ai lavori, degli obiettivi e attività previste dal progetto);
+  - descrizione e obiettivi del progetto (descrizione, in un linguaggio comprensibile ai non addetti ai lavori, degli obiettivi e attività previste dal progetto);
 
-      - amministrazione titolare/ruolo (attuatore/intermediario);
+  - amministrazione titolare/ruolo (attuatore/intermediario);
 
-      - enti locali coinvolti/ruolo (soggetto attuatore/destinatario finale);
+  - enti locali coinvolti/ruolo (soggetto attuatore/destinatario finale);
 
-      - altri soggetti coinvolti;
+  - altri soggetti coinvolti;
 
-      - unità di missione;
+  - unità di missione;
 
-      - missione;
+  - missione;
 
-      - componente;
+  - componente;
 
-      - misura correlata;
+  - misura correlata;
 
-      - tempistica di completamento;
+  - tempistica di completamento;
 
-      - fonti finanziarie;
+  - fonti finanziarie;
 
-      - localizzazione;
+  - localizzazione;
 
-      - indirizzo e coordinate dei luoghi di realizzazione del progetto;
+  - indirizzo e coordinate dei luoghi di realizzazione del progetto;
 
-      - indirizzo e coordinate dei soggetti coinvolti;
+  - indirizzo e coordinate dei soggetti coinvolti;
 
-      - indicatori di realizzazione (output) e impatto (outcome).
+  - indicatori di realizzazione (output) e impatto (outcome).
 
-  - **Fase di attuazione** (Come viene realizzato il progetto? Cosa è stato realizzato e cosa rimane da fare?)
+**Fase di attuazione** (Come viene realizzato il progetto? Cosa è stato realizzato e cosa rimane da fare?)
 
-      - procedure di gara eventualmente collegate al progetto - Codice Identificativo di Gara (CIG);
+  - procedure di gara eventualmente collegate al progetto - Codice Identificativo di Gara (CIG);
 
-      - modalità e termini di partecipazione e presentazione delle domande/progetti; ammontare delle risorse disponibili;
+  - modalità e termini di partecipazione e presentazione delle domande/progetti; ammontare delle risorse disponibili;
 
-      - requisiti di accesso dei soggetti proponenti;
+  - requisiti di accesso dei soggetti proponenti;
 
-      - condizioni di ammissibilità dei progetti e delle spese;
+  - condizioni di ammissibilità dei progetti e delle spese;
 
-      - criteri di valutazione;
+  - criteri di valutazione;
 
-      - forma e intensità dei finanziamenti;
+  - forma e intensità dei finanziamenti;
 
-      - fasi di attuazione: affidamento, esecuzione, collaudo, rendicontazione spese:
+  - fasi di attuazione: affidamento, esecuzione, collaudo, rendicontazione spese:
 
-      - tempistiche;
+  - tempistiche;
 
-      - documentazione (atti, contratti, provvedimenti di spesa, etc.);
+  - documentazione (atti, contratti, provvedimenti di spesa, etc.);
 
-      - codice Fiscale dei soggetti giuridici coinvolti nel progetto;
+  - codice Fiscale dei soggetti giuridici coinvolti nel progetto;
 
-      - avanzamento finanziario (es. pagamenti);
+  - avanzamento finanziario (es. pagamenti);
 
-      - avanzamento procedurale (es. stato del progetto);
+  - avanzamento procedurale (es. stato del progetto);
 
-      - avanzamento fisico (es. indicatori di realizzazione);
+  - avanzamento fisico (es. indicatori di realizzazione);
 
-      - evidenze sui risultati di eventuali audit amministrativi.
+  - evidenze sui risultati di eventuali audit amministrativi.
 
 Questi dataset devono inoltre essere resi disponibili in modo da garantire l'interoperabilità con le principali fonti correlate, di cui si fornisce di seguito un elenco esemplificativo e non esaustivo:
 
