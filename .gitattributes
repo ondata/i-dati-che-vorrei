@@ -1,0 +1,27 @@
+# Autodetect text files and perform LF normalization
+
+.gitattributes text eol=lf
+setup text eol=lf
+
+out binary
+
+*.txt text eol=lf
+*.html text eol=lf
+
+*.c text eol=lf
+*.h text eol=lf
+*.sh text eol=lf
+*.rb text eol=lf
+
+*.csv text eol=lf
+*.dat text eol=lf
+*.dkvp text eol=lf
+*.json text eol=lf
+*.nidx text eol=lf
+*.pprint text eol=lf
+*.tsv text eol=lf
+
+*.csv-crlf binary
+*.pprint-crlf binary
+*.dkvp-crlf binary
+*.bin binary
