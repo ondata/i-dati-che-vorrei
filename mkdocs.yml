@@ -50,11 +50,11 @@ nav:
   - Partecipa: partecipa.md
   - Crediti: crediti.md
 
-#extra:
-#  social:
-#    - icon: fontawesome/solid/rss
-#      link: https://arigadicomando.it/feed_rss_created.xml
-#      name: Feed RSS
+extra:
+  social:
+    - icon: fontawesome/solid/home
+      link: https://www.datibenecomune.it/
+      name: datiBeneComune
 
 plugins:
 - search:
