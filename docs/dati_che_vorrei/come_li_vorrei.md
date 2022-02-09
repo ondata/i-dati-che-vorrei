@@ -1,8 +1,9 @@
 ---
 hide:
   - toc
-title: Come vorri che fossero pubblicati i dati della pubblica amministrazione
+og_title: Come vorri che fossero pubblicati i dati della pubblica amministrazione
 og_image: preview_custom.png
+description: L'amministrazione, di concerto con la collettività, deve in prima istanza individuare e scegliere quei dati che, una volta resi pubblici, possano generare valore per la collettività stessa
 ---
 
 # Come li vorrei
