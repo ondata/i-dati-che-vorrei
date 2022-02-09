@@ -19,7 +19,7 @@ div.md-typeset__table thead {
 
 article h1,h2,h3,h4 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  color: rgba(0,0,0,.74) !important;
+  color: #ff9100 !important;
 }
 
 /* font per le tabelle */

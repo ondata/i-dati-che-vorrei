@@ -2,9 +2,7 @@
 hide:
   - toc
 ---
-# Il contesto
-
-## Perché vogliamo i dati
+# Il contesto: perché vogliamo i dati
 
 L’Italia si presenta all’appuntamento del PNRR con diverse criticità irrisolte. La scarsa capacità di prevenire e contrastare la corruzione negli appalti, il sistema di integrità debole e lacunoso, la povertà di dati aperti disponibili al pubblico, creano le condizioni per corrotti e corruttori di operare in maniera quasi indisturbata.
 

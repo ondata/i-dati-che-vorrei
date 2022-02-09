@@ -14,12 +14,14 @@ theme:
   highlightjs: true
   palette:
     - scheme: preference
-      primary: blue
+      primary: black
+      accent: orange
 
   language: it
   favicon: images/favicon.png
-  icon:
-    logo: fontawesome/solid/info-circle
+#  icon:
+#    logo: fontawesome/solid/info-circle
+#    logo: ./images/logo.png
   features:
     - navigation.top
 #    - navigation.instant
@@ -30,6 +32,7 @@ theme:
   font:
     text: Montserrat
   custom_dir: overrides
+  logo: images/logo.svg
 
 # foglio di stile personalizzato
 extra_css:
