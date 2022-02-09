@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: Come vorri che fossero pubblicati i dati della pubblica amministrazione
+og_image: preview_custom.png
 ---
 
 # Come li vorrei
