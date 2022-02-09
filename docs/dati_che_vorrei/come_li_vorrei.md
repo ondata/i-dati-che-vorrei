@@ -19,7 +19,10 @@ La politica deve decidere l'apertura dei dati di pubblico interesse.
 
 L'amministrazione, di concerto con la collettività, deve in prima istanza individuare e scegliere quei dati che, una volta resi pubblici, possano generare valore per la collettività stessa; la pubblicazione e la conseguente diffusione di questi dati devono seguire i più elevati standard internazionali.
 
-Un framework concettuale di grande importanza è quello dei principi **FAIR**, un insieme di linee guida formulate nel 2014 per ottimizzare la pubblicazione, la riutilizzabilità, e la qualità dei dati di ricerca, ma che si può, anzi si deve, estendere a tutti i dati di interesse pubblico. I principi FAIR si possono riassumere come segue:
+## I principi FAIR
+
+Un framework concettuale di grande importanza è quello dei principi **FAIR**, un insieme di linee guida formulate nel 2014 per ottimizzare la pubblicazione,
+la riutilizzabilità, e la qualità dei dati di ricerca, ma che si può, anzi si deve, estendere a tutti i dati di interesse pubblico. I principi FAIR si possono riassumere come segue:
 
   - **Findable (Trovabile)**: i dati devono essere facilmente **rintracciabili** dagli esseri umani e dalle macchine. Questa proprietà è garantita dall'uso di identificatori persistenti (PID) (DOI, Handle, URN), e dai metadati descrittivi, che devono essere registrati in "cataloghi" o in *repository* indicizzabili anche dalle macchine.
 
@@ -32,6 +35,8 @@ Un framework concettuale di grande importanza è quello dei principi **FAIR**, u
 I principi FAIR sono, per l'appunto, dei principi. Agnostici da implementazioni tecnologiche, costituiscono delle linee guida per garantire non solo che dati/metadati siano rintracciabili e persistenti nel tempo, ma anche che siano pubblicati tenendo in mente standard internazionali di rappresentazione del dato di alta qualità.
 
 Alcuni di [questi](http://www.iso25000.it/styled-19/), anche referenziati nelle [linee guida nazionali per la valorizzazione del patrimonio informativo pubblico](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html#qualita-dei-dati), hanno tra i loro obiettivi la valutazione dei requisiti di qualità dei dati nella produzione, acquisizione e loro integrazione, così come il miglioramento della qualità dei dati da esporre in modalità "Open data".
+
+## La qualità dei dati
 
 Anche rispetto ai principi FAIR prima enunciati, si ritiene importante riportare di seguito alcune caratteristiche di qualità dei dati, che vorremmo vedere implementate:
 
