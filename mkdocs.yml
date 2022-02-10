@@ -47,7 +47,10 @@ nav:
     - Dati: dati-che-vorrei/dati.md
     - Come li vorrei: dati-che-vorrei/come-li-vorrei.md
     - Etica dei dati: dati-che-vorrei/etica-dei-dati.md
-    - Divario di genere: dati-che-vorrei/divario-genere.md
+    - Prossime pubblicazione:
+      - Divario di genere: dati-che-vorrei/prossimamente.md
+      - Divario generazionale: dati-che-vorrei/prossimamente.md
+      - Divario territoriale: dati-che-vorrei/prossimamente.md
   - Partecipa: partecipa.md
   - Crediti: crediti.md
 
@@ -78,6 +81,7 @@ extra_javascript:
 markdown_extensions:
 - admonition
 - attr_list
+- md_in_html
 - footnotes
 - meta
 - mkdocs-click
