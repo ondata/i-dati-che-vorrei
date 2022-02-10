@@ -74,7 +74,7 @@ In passato ha svolto attività di consulenza per l'Agenzia per l'Italia Digitale
 
 <div class="profilo">
 <h3 class="nome">Davide Taibi</h3>
-<a href="<a href="https://twitter.com/dataibi"><img src="/images/people/davide-taibi.jpg" class="foto-profilo"></a>
+<a href="https://twitter.com/dataibi"><img src="/images/people/davide-taibi.jpg" class="foto-profilo"></a>
 <p>Da più di 15 anni ricercatore presso l’Istituto per le Tecnologie Didattiche del Consiglio Nazionale delle Ricerche, e dal 2016 docente per l’insegnamento di Tecniche per la gestione degli Open Data, nel corso di studi in Informatica dell’Università degli Studi di Palermo. I suoi principali interessi di ricerca riguardano: mobile learning, augmented reality for education, Learning Analytics, Semantic Web e Linked Data per l'e-learning e gli standard per la progettazione dei processi educativi. Dal 2019 coordina due progetti finanziati dalla comunità europea sul tema della Data Literacy.</p>
 <br>
 <br>
