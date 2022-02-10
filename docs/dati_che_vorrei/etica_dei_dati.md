@@ -11,15 +11,15 @@ Fare in modo che i dati e quello che producono siano etici va ben oltre la confo
 
 La *data science* ha evidenti impatti sulla società e sulla vita pubblica. Per questo le sfide legate all’etica devono essere tenute in considerazione nel dibattito e soprattutto nelle politiche e nel governo dei dati e delle infrastrutture digitali e tecnologiche. In ambito economico sono stati individuati 5 principi da osservare nelle organizzazioni e che possono essere mutuati dalle comunità o dai soggetti che operano nell’ecosistema dei dati, come decisori, come produttori o come fruitori.
 
-1. *Governance* del dato: è necessario che sia sempre identificabile e che l’uso ne sia consentito.
+1. **Governance** del dato: è necessario che sia sempre identificabile e che l’uso ne sia consentito.
 
-2. Trasparenza: è un esercizio doveroso per le pubbliche amministrazioni e indispensabile quando, per esempio, si redige una *policy* o i dati vengono utilizzati all’interno di algoritmi.
+2. **Trasparenza**: è un esercizio doveroso per le pubbliche amministrazioni e indispensabile quando, per esempio, si redige una *policy* o i dati vengono utilizzati all’interno di algoritmi.
 
-3. Privacy: quando trattiamo dati personali o dati particolari (biometrici o sensibili) è necessario tutelare la dignità e i diritti delle persone coinvolte, individuare i responsabili e controllare la conformità di ogni trattamento al GDPR.
+3. **Privacy**: quando trattiamo dati personali o dati particolari (biometrici o sensibili) è necessario tutelare la dignità e i diritti delle persone coinvolte, individuare i responsabili e controllare la conformità di ogni trattamento al GDPR.
 
-4. Intenzioni / obiettivi: Le intenzioni contano e la minimizzazione dei dati raccolti sono un requisito, quindi prima di iniziare una raccolta o un trattamento è indispensabile chiedersi quali sono gli obiettivi e individuare quali siano i dati necessari al loro raggiungimento.
+4. **Intenzioni / obiettivi**: Le intenzioni contano e la minimizzazione dei dati raccolti sono un requisito, quindi prima di iniziare una raccolta o un trattamento è indispensabile chiedersi quali sono gli obiettivi e individuare quali siano i dati necessari al loro raggiungimento.
 
-5. *Outcomes* (risultati/prodotti): se è vero che le intenzioni contano, l’impatto di ogni attività verrà misurato principalmente sui risultati o sui prodotti del trattamento. Per esempio, è sempre necessario valutare se il risultato di un’analisi o il grafico che lo descrive non contenga dei pregiudizi oppure non possa essere utilizzato per escludere o discriminare dei gruppi o delle persone.
+5. **Outcomes** (risultati/prodotti): se è vero che le intenzioni contano, l’impatto di ogni attività verrà misurato principalmente sui risultati o sui prodotti del trattamento. Per esempio, è sempre necessario valutare se il risultato di un’analisi o il grafico che lo descrive non contenga dei pregiudizi oppure non possa essere utilizzato per escludere o discriminare dei gruppi o delle persone.
 
 Questi 5 principi guidano ogni passo di un tipico *data science workflow*. Bisogna, in particolar modo, mettere insieme procedure e azioni collettive affinché tutto quello che viene prodotto mediante l’utilizzo di dati pubblici contribuisca alla lotta contro discriminazioni e ingiustizie e alla costruzione di un tessuto sociale più equo: insomma, che risolva problemi anziché crearne di nuovi.
 
