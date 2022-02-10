@@ -56,7 +56,7 @@ nav:
 
 extra:
   social:
-    - icon: fontawesome/solid/home
+    - icon: material/home
       link: https://www.datibenecomune.it/
       name: datiBeneComune
 
