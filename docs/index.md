@@ -14,4 +14,4 @@ Pellentesque faucibus rhoncus sapien, faucibus egestas nisi aliquam ut. Integer 
 
 Fusce dignissim erat at porta malesuada. Aliquam nec posuere dui. Nunc ut augue nec magna pharetra porttitor vitae sit amet odio. Proin vel felis sollicitudin, vulputate enim at, maximus odio. Nullam semper, nibh malesuada gravida fermentum, lectus purus placerat velit, euismod ornare leo lectus sed lacus. Phasellus at mattis mi, eget dignissim tellus. Nunc consequat quam risus. Quisque eget consequat diam. Curabitur posuere feugiat erat, nec bibendum urna. Pellentesque molestie malesuada nunc.
 
-[Leggi :fontawesome-brands-readme:](dati_che_vorrei){ .md-button .md-button--primary }
+[Leggi :fontawesome-brands-readme:](dati-che-vorrei){ .md-button .md-button--primary }

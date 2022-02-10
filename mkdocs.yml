@@ -42,11 +42,12 @@ extra_css:
 nav:
   - Home: index.md
   - I dati che vorrei:
-    - Premessa: dati_che_vorrei/index.md
-    - Il contesto: dati_che_vorrei/contesto.md
-    - Dati: dati_che_vorrei/dati.md
-    - Come li vorrei: dati_che_vorrei/come_li_vorrei.md
-    - Etica dei dati: dati_che_vorrei/etica_dei_dati.md
+    - Premessa: dati-che-vorrei/index.md
+    - Il contesto: dati-che-vorrei/contesto.md
+    - Dati: dati-che-vorrei/dati.md
+    - Come li vorrei: dati-che-vorrei/come-li-vorrei.md
+    - Etica dei dati: dati-che-vorrei/etica-dei-dati.md
+    - Divario di genere: dati-che-vorrei/divario-genere.md
   - Partecipa: partecipa.md
   - Crediti: crediti.md
 
