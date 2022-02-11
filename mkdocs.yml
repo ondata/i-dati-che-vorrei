@@ -7,7 +7,7 @@ repo_url: https://github.com/ondata/i-dati-che-vorrei
 repo_name: i-dati-che-vorrei
 edit_uri: edit/main/docs/
 
-copyright: '<b>I dati che vorrei</b> è un progetto dell''<a href="https://ondata.it/" target="_blank">Associazione onData</a> | licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
+copyright: '<b>I dati che vorrei</b> è un progetto dell''<a href="https://ondata.it/" target="_blank">Associazione onData</a> | licenza <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
 
 theme:
   name: material
