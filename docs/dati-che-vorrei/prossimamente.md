@@ -14,4 +14,4 @@ title: Prossime pubblicazioni
     - **divario** **generazionale**;
     - **divario** **territoriale**.
 
-    Per essere aggiornato puoi iscriverti a [questa newsletter](https://www.getrevue.co/profile/ondata).
+    Per essere aggiornato puoi seguire le 📣[**News di datiBeneComune**](https://www.datibenecomune.it/notizie/) o iscriverti alla [newsletter :material-email-newsletter:](https://www.getrevue.co/profile/ondata) di onData.
