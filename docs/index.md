@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+title: I dati che Vorrei
 ---
 
 # Benvenuta/o
