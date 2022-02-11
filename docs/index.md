@@ -18,4 +18,4 @@ La pubblicazione sarà arricchita nel tempo con ulteriori sezioni dedicate alle 
 \#DatiBeneComune con questo documento chiede dunque che **si passi** finalmente **dalla teoria alla pratica**, dalle parole ai fatti, dalle buone intenzioni alla vera trasparenza e partecipazione.<br>
 E con **spirito costruttivo**, **collaborativo**, **partecipativo**, suggerisce come farlo.
 
-[Leggi :fontawesome-brands-readme:](dati-che-vorrei)
+[Leggi :fontawesome-brands-readme:](dati-che-vorrei){ .md-button .md-button--primary }
