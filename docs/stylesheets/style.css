@@ -111,3 +111,10 @@ li.md-nav__item.md-nav__item--section.md-nav__item--nested>nav>ul {
 .profilo p {
 margin: -4px 0px 0px 0px;
 }
+
+/*menu dati che vorrei*/
+
+/*.md-tabs__item:nth-child(2) .md-tabs__link {
+  color: #ff9100 !important;
+  opacity: 1 !important;
+}*/

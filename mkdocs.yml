@@ -112,7 +112,7 @@ markdown_extensions:
       clickable_checkbox: true
 - pymdownx.tilde
 - toc:
-      permalink: true
+      permalink: false
       toc_depth: 3
 - pymdownx.arithmatex:
       generic: true
