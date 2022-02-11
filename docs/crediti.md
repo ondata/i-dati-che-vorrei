@@ -61,8 +61,8 @@ In passato ha svolto attività di consulenza per l'Agenzia per l'Italia Digitale
 
 <div class="profilo">
 <h3 class="nome">Alberto Pampalone Morisani</h3>
-<img src="https://picsum.photos/100/100" class="foto-profilo">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque ipsum et orci malesuada imperdiet. Quisque suscipit, ligula sit amet euismod fermentum, turpis leo facilisis tortor, quis dignissim est massa eu est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget nulla quis nisl pellentesque gravida. Nulla sodales erat sit amet velit maximus, eu lobortis erat porttitor.</p>
+<img src="/images/people/alberto-pampalone-morisani.jpg" class="foto-profilo">
+<p>Alberto Pampalone Morisani, expert accountability&transparency per Action Aid Italia. Ha lavorato per la cooperazione internazionale, sia in Italia che all’estero (Perù, Sud America), per poi collaborare come legal&policy officer con le pubbliche istituzioni, dapprima presso il Dip. politiche europee della Presidenza del Consiglio e, in seguito, per l’EASO (Ufficio della Commissione europea di supporto all’asilo e alla protezione internazionale) presso il Ministero dell’Interno, dove si è occupato, tra gli altri, di trasparenza, FOIA, accesso agli atti e accessi civici generalizzati.</p>
 </div>
 
 
