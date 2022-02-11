@@ -7,12 +7,16 @@ title: I dati che Vorrei
 
 # Benvenuta/o
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In cursus at neque vel condimentum. Sed fringilla eleifend efficitur. Nulla purus metus, porta vitae ipsum in, lacinia porta purus. Cras id ante efficitur, suscipit dolor ut, dignissim dui. Morbi sed nisi nibh. Maecenas ullamcorper mollis enim luctus blandit. Morbi eget elit dolor. Maecenas eget blandit massa. Nam congue in ligula a ultricies. Etiam nunc enim, lacinia ac mi quis, aliquam rutrum nisl. Suspendisse nec lorem ac mauris efficitur volutpat at quis tellus. Suspendisse eu massa augue.
+#DatiBeneComune è una campagna nata nel novembre 2020 per chiedere al Governo italiano di pubblicare in formato aperto e accessibile i dati sulla gestione della pandemia di COVID-19.
 
-Nullam sodales tristique tellus, eu porta ex laoreet quis. Fusce luctus est at finibus mattis. Nunc venenatis eros eu nulla semper vestibulum. Nunc ipsum arcu, suscipit ut elit eget, porta consectetur massa. Quisque sodales erat eleifend, feugiat felis condimentum, pellentesque est. Proin sed sem euismod, luctus purus eu, laoreet ante. Vestibulum est nibh, dapibus ac risus sed, efficitur consequat lectus. Etiam quis orci urna. Donec dignissim fringilla fermentum. Phasellus rutrum vulputate elit, a euismod nisi egestas in. Pellentesque bibendum odio dolor, ac maximus orci varius at.
+La campagna è stata accolta sin dall’inizio con entusiasmo da parte di esperti, organizzazioni, testate giornalistiche, che hanno aderito immediatamente all’iniziativa. Ad oggi, oltre 250 organizzazioni si sono ufficialmente unite all’iniziativa e circa 55.000 cittadini e cittadine hanno firmato la petizione connessa.
 
-Pellentesque faucibus rhoncus sapien, faucibus egestas nisi aliquam ut. Integer mi risus, venenatis eu laoreet sit amet, placerat fringilla purus. Nulla facilisi. Cras tempus in eros quis maximus. Praesent tristique nulla vel urna gravida sagittis. Etiam dictum neque lacus, id viverra magna tempor quis. Morbi fermentum felis magna, a porta leo dapibus nec. Sed a ex ut ex blandit hendrerit. Morbi facilisis risus sapien, nec ultrices augue fringilla in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut maximus arcu, ut pretium libero.
+Da maggio 2021, in collaborazione con l’Osservatorio Civico PNRR, si chiede l’apertura di tutti i dati relativi al PNRR (Piano Nazionale di Ripresa e Resilienza) e, più in generale, l’apertura di tutti i dati di pubblico interesse.
 
-Fusce dignissim erat at porta malesuada. Aliquam nec posuere dui. Nunc ut augue nec magna pharetra porttitor vitae sit amet odio. Proin vel felis sollicitudin, vulputate enim at, maximus odio. Nullam semper, nibh malesuada gravida fermentum, lectus purus placerat velit, euismod ornare leo lectus sed lacus. Phasellus at mattis mi, eget dignissim tellus. Nunc consequat quam risus. Quisque eget consequat diam. Curabitur posuere feugiat erat, nec bibendum urna. Pellentesque molestie malesuada nunc.
+I dati che vorrei, grazie all’intervento di autorevoli esperti ed esperte di diverse realtà della società civile, intende delineare le caratteristiche e le modalità di pubblicazione dei dati aperti del PNRR, in modo che le attività di monitoraggio civico siano rese possibili.
+
+La pubblicazione sarà arricchita nel tempo con ulteriori sezioni dedicate alle priorità trasversali riconosciute nel PNRR: i dati per misurare l’impatto sulle questioni di genere, quelle generazionali, e quelle territoriali.
+
+#DatiBeneComune con questo documento chiede dunque che si passi finalmente dalla teoria alla pratica, dalle parole ai fatti, dalle buone intenzioni alla vera trasparenza e partecipazione. E con spirito costruttivo, collaborativo, partecipativo, suggerisce come farlo.
 
 [Leggi :fontawesome-brands-readme:](dati-che-vorrei){ .md-button .md-button--primary }
