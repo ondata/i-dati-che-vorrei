@@ -55,11 +55,11 @@ nav:
   - Crediti: crediti.md
   - DatiBeneComune: https://www.datibenecomune.it/
 
-extra:
-  social:
-    - icon: material/home
-      link: https://www.datibenecomune.it/
-      name: datiBeneComune
+#extra:
+#  social:
+#    - icon: material/home
+#      link: https://www.datibenecomune.it/
+#      name: datiBeneComune
 
 plugins:
 - search:
