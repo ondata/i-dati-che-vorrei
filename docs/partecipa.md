@@ -13,4 +13,4 @@ Per seguire il progetto e/o parteciparvi, puoi farlo in questo modo:
 - utilizzare lo spazio di progetto per le :octicons-comment-discussion-24: [**discussioni**](https://github.com/ondata/i-dati-che-vorrei/discussions).
 
 
-Se vuoi un contatto diretto per approfondire, puoi scrivere un'**email** a [info@datibenecomune.it](mailto:info@datibenecomune.it) :material-email:.
+Se vuoi un **contatto diretto** per approfondire, puoi scrivere un'**email** a [info@datibenecomune.it](mailto:info@datibenecomune.it) :material-email:.
