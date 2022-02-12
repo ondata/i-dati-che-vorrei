@@ -19,17 +19,19 @@ La politica deve decidere l’apertura dei dati di pubblico interesse.
 
 L’amministrazione, di concerto con la collettività, deve in prima istanza individuare e scegliere quei dati che, una volta resi pubblici, possano generare valore per la collettività stessa; la pubblicazione e la conseguente diffusione di questi dati devono seguire i più elevati standard internazionali.
 
+
+
 ## I principi FAIR
 
 Un *framework* concettuale di grande importanza è quello dei principi **FAIR**, un insieme di linee guida formulate nel 2014 per ottimizzare la pubblicazione, la riutilizzabilità, e la qualità dei dati di ricerca, ma che si può, anzi si deve, estendere a tutti i dati di interesse pubblico. I principi FAIR si possono riassumere come segue:
 
-  - **Findable (Trovabile)**: i dati devono essere facilmente **rintracciabili** dagli esseri umani e dalle macchine. Questa proprietà è garantita dall’uso di identificatori persistenti (PID) (DOI, Handle, URN), e dai [metadati](glossario.md#metadati) descrittivi, che devono essere registrati in "cataloghi" o in *repository* indicizzabili anche dalle macchine.
+  - **Findable (Trovabile)**: i dati devono essere facilmente **rintracciabili** dagli esseri umani e dalle macchine. Questa proprietà è garantita dall’uso di identificatori persistenti (PID) (DOI, Handle, URN), e dai metadati^[:information_source:](glossario.md#metadati)^ descrittivi, che devono essere registrati in "cataloghi" o in *repository* indicizzabili anche dalle macchine.
 
   - **Accessible (Accessibile)**: i dati devono essere sempre **accessibili**, persistenti nel tempo, e rintracciabili in rete, attraverso protocolli standard. Qualora non fosse possibile rendere i dati “*open*”, sistemi di autenticazione possono essere usati, a patto che almeno i metadati siano sempre disponibili.
 
-  - **Interoperable (Interoperabile)**: i dati (e i metadati) devono essere **interoperabili**, ovvero devono poter essere combinati con altri dati e strumenti. Questo vuol dire che il loro formato deve essere [aperto](glossario.md#formato-aperto) (un *CSV* lo è, un *XLS* no), e che i metadati di contenuto e descrittivi devono essere rappresentati in un linguaggio standardizzato (usare ontologie e vocabolari controllati, ove possibile).
+  - **Interoperable (Interoperabile)**: i dati (e i metadati) devono essere **interoperabili**, ovvero devono poter essere combinati con altri dati e strumenti. Questo vuol dire che il loro formato deve essere aperto^[:information_source:](glossario.md#formato-aperto)^ (un *CSV* lo è, un *XLS* no), e che i metadati di contenuto e descrittivi devono essere rappresentati in un linguaggio standardizzato (usare ontologie e vocabolari controllati, ove possibile).
 
-  - **Reusable (Riutilizzabile)**: i dati devono essere **riutilizzabili**, per cui deve essere chiaro in che modalità sia dati che metadati possono essere riutilizzati (replicati, usati in contesti diversi, con scopo diverso, etc). Questo significa anche accompagnare i dati con una o più [licenze aperte](glossario.md#licenza), chiare, accessibili e possibilmente riconosciute a livello internazionale.
+  - **Reusable (Riutilizzabile)**: i dati devono essere **riutilizzabili**, per cui deve essere chiaro in che modalità sia dati che metadati possono essere riutilizzati (replicati, usati in contesti diversi, con scopo diverso, etc). Questo significa anche accompagnare i dati con una o più licenze aperte^[:information_source:](glossario.md#licenza)^, chiare, accessibili e possibilmente riconosciute a livello internazionale.
 
 I principi FAIR sono, per l’appunto, dei principi. Agnostici da implementazioni tecnologiche, costituiscono delle linee guida per garantire non solo che dati/metadati siano rintracciabili e persistenti nel tempo, ma anche che siano pubblicati tenendo in mente standard internazionali di rappresentazione del dato di alta qualità.
 
