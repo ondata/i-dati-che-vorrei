@@ -86,6 +86,7 @@ markdown_extensions:
 - footnotes
 - meta
 - mkdocs-click
+- md_in_html
 - pymdownx.betterem:
       smart_enable: all
 - pymdownx.caret
