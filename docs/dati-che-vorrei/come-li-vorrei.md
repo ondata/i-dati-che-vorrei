@@ -8,7 +8,7 @@ description: L'amministrazione, di concerto con la collettività, deve in prima 
 
 # Come li vorrei
 
-*di [Andrea Borruso](https://twitter.com/aborruso), [Paola Chiara Masuzzo](https://twitter.com/pcmasuzzo), [Giorgia Lodi](https://twitter.com/GiorgiaLodi), [Davide Taibi](https://twitter.com/dataibi)*
+*di [Andrea Borruso](https://twitter.com/aborruso), [Giorgia Lodi](https://twitter.com/GiorgiaLodi), [Paola Chiara Masuzzo](https://twitter.com/pcmasuzzo), [Davide Taibi](https://twitter.com/dataibi)*
 
 Quando offriamo un bicchiere d’acqua del rubinetto di casa a un nostro ospite, non diciamo “ecco un bicchiere d’acqua potabile”. Allo stesso modo, quando si parla di dati, vorremmo che l’aggettivo “*open*” fosse sottinteso.
 Così come diamo per scontato che l’acqua di casa sia potabile, vorremmo poter pensare lo stesso per quanto riguarda i dati pubblici.
