@@ -53,12 +53,13 @@ Anche rispetto ai principi FAIR prima enunciati, si ritiene importante riportare
 
 Si vuole infine evidenziare la necessità di uniformarsi alle linee guida nazionali per la valorizzazione del patrimonio informativo pubblico che, attraverso le [azioni riportate](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/riepilogoazioni.html), raccomandano anche [piccoli accorgimenti](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#formati-aperti-per-i-dati-e-documenti) (come ad esempio specificare il carattere separatore quando si pubblicano CSV, ecc.), utili a garantire un processo di gestione dei dati di qualità.
 
-## Riferimenti utili
 
-  - DECRETO LEGISLATIVO 24 gennaio 2006, n. 36 - Attuazione della direttiva (UE) 2019/1024 relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico che ha abrogato la direttiva 2003/98/CE ([link](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig))
-  - DECRETO LEGISLATIVO 7 marzo 2005, n. 82 - Codice dell'Amministrazione Digitale ([link](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig))
-  - Defining Open in Open Data, Open Content and Open Knowledge ([link](https://opendefinition.org/od/2.0/it/))
-  - Direttiva (UE) 2019/1024 del Parlamento europeo e del Consiglio, del 20 giugno 2019, relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico ([link](http://data.europa.eu/eli/dir/2019/1024/oj/ita))
-  - FAIR Cookbook ([link](https://fairplus.github.io/the-fair-cookbook/content/home.html))
-  - ISO/IEC 25012 | SQuaRE: requisiti della qualità di sistemi e valutazione di prodotti ([link](http://www.iso25000.it/styled-19/index.html))
-  - Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico ([link](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html))
+!!! info "Riferimenti utili"
+
+      - DECRETO LEGISLATIVO 24 gennaio 2006, n. 36 - Attuazione della direttiva (UE) 2019/1024 relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico che ha abrogato la direttiva 2003/98/CE ([🔗](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig))
+      - DECRETO LEGISLATIVO 7 marzo 2005, n. 82 - Codice dell'Amministrazione Digitale ([🔗](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig))
+      - Defining Open in Open Data, Open Content and Open Knowledge ([🔗](https://opendefinition.org/od/2.0/it/))
+      - Direttiva (UE) 2019/1024 del Parlamento europeo e del Consiglio, del 20 giugno 2019, relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico ([🔗](http://data.europa.eu/eli/dir/2019/1024/oj/ita))
+      - FAIR Cookbook ([🔗](https://fairplus.github.io/the-fair-cookbook/content/home.html))
+      - ISO/IEC 25012 | SQuaRE: requisiti della qualità di sistemi e valutazione di prodotti ([🔗](http://www.iso25000.it/styled-19/index.html))
+      - Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico ([🔗](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html))
