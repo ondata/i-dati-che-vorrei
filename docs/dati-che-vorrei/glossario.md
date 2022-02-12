@@ -15,7 +15,7 @@
 
 ### Machine Readable
 
-!!! note "Fonte: [Direttiva (UE) 2019/1024 del Parlamento europeo e del Consiglio, del 20 giugno 2019, relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico](https://www.google.com/url?q=https://eur-lex.europa.eu/eli/dir/2019/1024/oj/ita&sa=D&source=editors&ust=1644608253627707&usg=AOvVaw0xSmhUFDOzcCsATfD4a1RC)"
+!!! note "Fonte: [Direttiva (UE) 2019/1024 relativa all'apertura dei dati](https://www.google.com/url?q=https://eur-lex.europa.eu/eli/dir/2019/1024/oj/ita&sa=D&source=editors&ust=1644608253627707&usg=AOvVaw0xSmhUFDOzcCsATfD4a1RC)"
 
     Un documento è leggibile meccanicamente se ha un formato di file strutturato in modo tale che le applicazioni software possano agevolmente identificarlo, riconoscerlo ed estrarne dati specifici.
 
