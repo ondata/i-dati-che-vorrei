@@ -6,7 +6,7 @@ title: Prossime pubblicazioni
 
 # Prossime pubblicazioni
 
-!!! note "Nelle prossime settimane"
+!!! tip "Nelle prossime settimane"
 
     Stiamo lavorando su altre tre sezioni, che pubblicheremo nelle prossime settimane, relative ad alcuni degli [**obiettivi trasversali del PNRR**](https://www.governo.it/it/approfondimento/gli-obiettivi-trasversali/16784), e in particolare sul:
 
