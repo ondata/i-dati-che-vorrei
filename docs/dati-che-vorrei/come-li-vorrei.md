@@ -55,8 +55,7 @@ Anche rispetto ai principi FAIR prima enunciati, si ritiene importante riportare
 
 Si vuole infine evidenziare la necessità di uniformarsi alle linee guida nazionali per la valorizzazione del patrimonio informativo pubblico che, attraverso le [azioni riportate](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/riepilogoazioni.html), raccomandano anche [piccoli accorgimenti](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#formati-aperti-per-i-dati-e-documenti) (come ad esempio specificare il carattere separatore quando si pubblicano CSV, ecc.), utili a garantire un processo di gestione dei dati di qualità.
 
-
-!!! info "Riferimenti utili"
+!!! info "Riferimenti utili<a name="riferimenti-utili">&nbsp;</a>"
 
       - DECRETO LEGISLATIVO 24 gennaio 2006, n. 36 - Attuazione della direttiva (UE) 2019/1024 relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico che ha abrogato la direttiva 2003/98/CE ([🔗](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig))
       - DECRETO LEGISLATIVO 7 marzo 2005, n. 82 - Codice dell'Amministrazione Digitale ([🔗](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig))
