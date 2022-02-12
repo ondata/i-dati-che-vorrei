@@ -6,17 +6,17 @@ hide:
 # Progetti finanziati dal PNRR
 
 
-*di [Susanna Ferro](https://www.linkedin.com/in/susanna-ferro/), Alberto Pampalone Morisani, [Luigi Reggi](https://twitter.com/luigireggi)*
+*di [Susanna Ferro](https://www.linkedin.com/in/susanna-ferro), [Alberto Pampalone Morisani](mailto:alberto.pampalone@actionaid.org), [Luigi Reggi](https://twitter.com/luigireggi)*
 
 Nelle stime relative al Piano Nazionale di Ripresa e Resilienza, si calcola che gran parte dei progetti che verranno finanziati risulteranno (circa il 70%) provenire da investimenti pubblici.
 
 Appare quindi essenziale che, al fine di garantire l’*accountability* sociale, e prevenire fenomeni corruttivi promuovendo un attento monitoraggio della società civile, venga attuata una vera e propria **operazione trasparenza** del PNRR italiano.
 
-Con trasparenza si vuole intendere, così come definito ex art. 1 del d.lgs. 33/2013 (c.d. decreto trasparenza) come modificato dal d.lgs. 97/2016, quella “*accessibilità totale dei dati e documenti detenuti dalle pubbliche amministrazioni, allo scopo di tutelare i diritti dei cittadini, promuovere la partecipazione degli interessati all’attività amministrativa e favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull’utilizzo delle risorse pubbliche”*.
+Con trasparenza si vuole intendere, così come definito ex art. 1 del [d.lgs. 33/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig) (c.d. decreto trasparenza) come modificato dal [d.lgs. 97/2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97!vig), quella “*accessibilità totale dei dati e documenti detenuti dalle pubbliche amministrazioni, allo scopo di tutelare i diritti dei cittadini, promuovere la partecipazione degli interessati all’attività amministrativa e favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull’utilizzo delle risorse pubbliche”*.
 
 A tal proposito – e in via preliminare – si richiede quindi che venga data piena e completa attuazione a tutti quegli strumenti giuridici che, ai sensi della normativa nazionale, già prevedono obblighi di pubblicazione, affinché una reale operazione trasparenza venga effettivamente garantita.
 
-A titolo meramente esemplificativo si fa riferimento agli obblighi di cui al d.lgs. 33/2013 (c.d. decreto trasparenza), al d.lgs. 50/2016 (codice degli appalti), all’art. 50 comma 1 del CAD “Disponibilità dei dati delle Pubbliche Amministrazioni”, alla L.190/2012, nonché alle previsioni di cui alla delibera ANAC n. 1310/2016 recante *Prime linee guida recanti indicazioni sull’attuazione degli obblighi di pubblicità, trasparenza e diffusione di informazioni*.
+A titolo meramente esemplificativo si fa riferimento agli obblighi di cui al d.lgs. 33/2013, al [d.lgs. 50/2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50!vig) (codice degli appalti), all’[art. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art50) comma 1 del CAD “Disponibilità dei dati delle Pubbliche Amministrazioni”, alla [L.190/2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-06;190!vig), nonché alle previsioni di cui alla [delibera ANAC n. 1310/2016](https://www.anticorruzione.it/portal/public/classic/AttivitaAutorita/AttiDellAutorita/_Atto?ca=6667) recante *Prime linee guida recanti indicazioni sull’attuazione degli obblighi di pubblicità, trasparenza e diffusione di informazioni*.
 
 In particolare, si richiedono dati sui singoli progetti finanziati con il seguente dettaglio.
 
@@ -33,8 +33,6 @@ In particolare, si richiedono dati sui singoli progetti finanziati con il seguen
   - decisioni sulle modalità di attuazione (es. bando pubblico vs. individuazione diretta);
 
   - indicazione se il progetto inserito nel PNRR è “nuovo” o già avviato in precedenza.
-
-<!-- end list -->
 
 **Fase selezione e attivazione dei progetti** (cosa e come viene finanziato?)
 
@@ -104,22 +102,24 @@ In particolare, si richiedono dati sui singoli progetti finanziati con il seguen
 
 Questi dataset devono inoltre essere resi disponibili in modo da garantire l'interoperabilità con le principali fonti correlate, di cui si fornisce di seguito un elenco esemplificativo e non esaustivo:
 
-  - banca dati contratti pubblici (ANAC);
+  - [Banca Dati Nazionale dei Contratti Pubblici (ANAC)](https://dati.anticorruzione.it/superset/dashboard/appalti/);
 
-  - consultazione.gov.it;
+  - [Consultazione.gov.it](https://www.consultazione.gov.it/it/);
 
-  - IPA;
+  - [IPA](https://indicepa.gov.it/ipa-portale/);
 
   - MEPA;
 
-  - ParteciPA;
+  - [ParteciPA](https://partecipa.gov.it/);
 
-  - registro dei titolari effettivi;
+  - [Registro Imprese](https://www.registroimprese.it/);
 
-  - Registro Nazionale Aiuti di Stato (RNA);
+  - Registro dei Titolari Effettivi;
 
-  - registro imprese;
+  - [Registro Nazionale degli Aiuti di Stato](https://www.rna.gov.it/RegistroNazionaleTrasparenza/faces/pages/TrasparenzaAiuto.jspx);
 
-  - OpenCUP.
+  - [OpenDBAP](https://openbdap.mef.gov.it/);
+
+  - [OpenCUP](https://opencup.gov.it/).
 
 Infine, si raccomanda di rendere accessibili alla cittadinanza tutti i dataset che le pubbliche amministrazioni acquistano da operatori privati per effettuare il monitoraggio di fenomeni specifici, legati a progetti finanziati dal PNRR, come ad esempio la recente “Acquisizione di dataset per il monitoraggio dei flussi turistici in Italia”\[1\] da parte del Ministero del Turismo.
