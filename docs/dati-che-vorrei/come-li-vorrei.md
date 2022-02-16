@@ -53,6 +53,8 @@ Anche rispetto ai principi FAIR prima enunciati, si ritiene importante riportare
 
 Si vuole infine evidenziare la necessità di uniformarsi alle linee guida nazionali per la valorizzazione del patrimonio informativo pubblico che, attraverso le [azioni riportate](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/riepilogoazioni.html), raccomandano anche [piccoli accorgimenti](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#formati-aperti-per-i-dati-e-documenti) (tra cui, ad esempio, specificare il carattere separatore quando si pubblicano CSV), utili a garantire un processo di gestione dei dati di qualità.
 
+[Vorrei che fossero così :fontawesome-brands-twitter:](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fvorrei.datibenecomune.it%2Fdati-che-vorrei%2Fcome-li-vorrei%2F&amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&amp;text=%E2%9E%A1%EF%B8%8FAnche%20io%20Vorrei%20che%20i%20dati%20del%20%23PNRR%20fossero%20cos%C3%AC&amp;url=https%3A%2F%2Fvorrei.datibenecomune.it%2Fdati-che-vorrei%2Fcome-li-vorrei%2F&amp;via=ondatait%0D%23DatiBeneComune){ .md-button .md-button--primary }
+
 !!! info "Riferimenti utili<a name="riferimenti-utili">&nbsp;</a>"
 
     1. DECRETO LEGISLATIVO 24 gennaio 2006, n. 36 - Attuazione della direttiva (UE) 2019/1024 relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico che ha abrogato la direttiva 2003/98/CE ([link](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36!vig))
