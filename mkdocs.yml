@@ -43,7 +43,6 @@ nav:
   - Home: index.md
   - I dati che vorrei:
     - Premessa: dati-che-vorrei/index.md
-    - Il contesto: dati-che-vorrei/contesto.md
     - Dati: dati-che-vorrei/dati.md
     - Come li vorrei: dati-che-vorrei/come-li-vorrei.md
     - Etica dei dati: dati-che-vorrei/etica-dei-dati.md

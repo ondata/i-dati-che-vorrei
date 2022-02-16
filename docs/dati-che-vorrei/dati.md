@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+title: Progetti finanziati dal PNRR
 ---
 
 # Progetti finanziati dal PNRR
@@ -8,9 +9,9 @@ hide:
 
 *di [Susanna Ferro](https://www.linkedin.com/in/susanna-ferro), [Alberto Pampalone Morisani](mailto:alberto.pampalone@actionaid.org), [Luigi Reggi](https://twitter.com/luigireggi)*
 
-Nelle stime relative al Piano Nazionale di Ripresa e Resilienza, si calcola che gran parte dei progetti che verranno finanziati risulteranno (circa il 70%) provenire da investimenti pubblici.
+Nelle stime relative al Piano Nazionale di Ripresa e Resilienza si calcola che gran parte dei finanziamenti per i progetti (circa il 70%) proverrà da investimenti pubblici.
 
-Appare quindi essenziale che, al fine di garantire l’*accountability* sociale, e prevenire fenomeni corruttivi promuovendo un attento monitoraggio della società civile, venga attuata una vera e propria **operazione trasparenza** del PNRR italiano.
+Appare quindi essenziale che, al fine di garantire l’*accountability*^[ℹ️](glossario.md#accountability)^ sociale e prevenire fenomeni corruttivi promuovendo un attento monitoraggio della società civile, venga attuata una vera e propria **operazione trasparenza** del PNRR italiano.
 
 Con trasparenza si vuole intendere, così come definito ex art. 1 del [d.lgs. 33/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig) (c.d. decreto trasparenza) come modificato dal [d.lgs. 97/2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-25;97!vig), quella “*accessibilità totale dei dati e documenti detenuti dalle pubbliche amministrazioni, allo scopo di tutelare i diritti dei cittadini, promuovere la partecipazione degli interessati all’attività amministrativa e favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull’utilizzo delle risorse pubbliche”*.
 
@@ -100,7 +101,7 @@ In particolare, si richiedono dati sui singoli progetti finanziati con il seguen
 
   - evidenze sui risultati di eventuali audit amministrativi.
 
-Questi dataset devono inoltre essere resi disponibili in modo da garantire l'interoperabilità con le principali fonti correlate, di cui si fornisce di seguito un elenco esemplificativo e non esaustivo:
+Questi dataset devono inoltre essere resi disponibili in modo da garantire l'interoperabilità^[ℹ️](glossario.md#interoperabilita)^  con le principali fonti correlate, di cui si fornisce di seguito un elenco esemplificativo e non esaustivo:
 
   - [Banca Dati Nazionale dei Contratti Pubblici (ANAC)](https://dati.anticorruzione.it/superset/dashboard/appalti/);
 
@@ -122,4 +123,6 @@ Questi dataset devono inoltre essere resi disponibili in modo da garantire l'int
 
   - [OpenCUP](https://opencup.gov.it/).
 
-Infine, si raccomanda di rendere accessibili alla cittadinanza tutti i dataset che le pubbliche amministrazioni acquistano da operatori privati per effettuare il monitoraggio di fenomeni specifici, legati a progetti finanziati dal PNRR, come ad esempio la recente “Acquisizione di dataset per il monitoraggio dei flussi turistici in Italia”\[1\] da parte del Ministero del Turismo.
+Infine, si raccomanda di **rendere accessibili alla cittadinanza tutti i dataset che le pubbliche amministrazioni acquistano da operatori privati** per effettuare il monitoraggio di fenomeni specifici, legati a progetti finanziati dal PNRR, come ad esempio la recente “Acquisizione di dataset per il monitoraggio dei flussi turistici in Italia”[^1] da parte del Ministero del Turismo.
+
+[^1]: [Ministero del Turismo](https://www.ministeroturismo.gov.it/wp-content/uploads/2021/10/MiTur-TDH_Dati-mobili_Consultazione-preliminare-di-mercato-del-4-ottobre-2021.pdf)
