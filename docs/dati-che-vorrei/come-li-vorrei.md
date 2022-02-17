@@ -71,3 +71,5 @@ Si vuole infine evidenziare la necessità di uniformarsi alle linee guida nazion
     7. Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico ([link](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html))
 
     8. Piano Triennale per l'informatica nella Pubblica Amministrazione ([link](https://pianotriennale-ict.italia.it/))
+
+    9. Strategia europea in materia di dati ([link](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_it))
