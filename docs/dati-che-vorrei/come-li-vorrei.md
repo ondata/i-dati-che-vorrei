@@ -69,3 +69,5 @@ Si vuole infine evidenziare la necessità di uniformarsi alle linee guida nazion
     6. ISO/IEC 25012 | SQuaRE: requisiti della qualità di sistemi e valutazione di prodotti ([link](http://www.iso25000.it/styled-19/index.html))
 
     7. Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico ([link](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html))
+
+    8. Piano Triennale per l'informatica nella Pubblica Amministrazione ([link](https://pianotriennale-ict.italia.it/))
