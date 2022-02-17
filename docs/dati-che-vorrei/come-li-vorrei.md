@@ -1,9 +1,8 @@
 ---
 hide:
   - toc
-og_title: Come vorrei che fossero pubblicati i dati del PNRR
+og_title: "Dati: come li vorrei"
 og_image: comeLiVorrei.png
-description: L'amministrazione, di concerto con la collettività, deve in prima istanza individuare e scegliere quei dati che, una volta resi pubblici, possano generare valore per la collettività stessa
 ---
 
 # Come li vorrei

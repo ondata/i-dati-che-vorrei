@@ -42,9 +42,9 @@ extra_css:
 nav:
   - Home: index.md
   - I dati che vorrei:
-    - Premessa: dati-che-vorrei/index.md
-    - Dati: dati-che-vorrei/dati.md
-    - Come li vorrei: dati-che-vorrei/come-li-vorrei.md
+    - Perché vogliamo i dati: dati-che-vorrei/index.md
+    - Progetti finanziati dal PNRR: dati-che-vorrei/dati.md
+    - "Dati: come li vorrei": dati-che-vorrei/come-li-vorrei.md
     - Etica dei dati: dati-che-vorrei/etica-dei-dati.md
     - Glossario: dati-che-vorrei/glossario.md
     - Prossime pubblicazioni:

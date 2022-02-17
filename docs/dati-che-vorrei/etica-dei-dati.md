@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+title: Etica dei dati
 ---
 
 # Etica dei dati
