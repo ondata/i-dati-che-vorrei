@@ -10,7 +10,7 @@ hide:
 
 Questa pubblicazione è stata possibile **grazie** al **supporto** di [Open Society Foundations](https://www.opensocietyfoundations.org/) e alla **collaborazione** di [ActionAid Italia](https://www.actionaid.it/) e [Transparency International Italia](https://www.transparency.it/).
 
-Hanno contribuito alla steusura del testo, offrendo **competenza**, **conoscenza** e... **entusiasmo** 🙏:
+Hanno contribuito alla stesura del testo, offrendo **competenza**, **conoscenza** ed **entusiasmo** 🙏:
 
 <div class="profilo">
 <h3 class="nome">Valentina Bazzarin</h3>
