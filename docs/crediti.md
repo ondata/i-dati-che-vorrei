@@ -45,7 +45,7 @@ Al momento è consulente per il supporto specialistico sui dati aperti.
 <div class="profilo">
 <h3 class="nome">Diletta Huyskes</h3>
 <a href="https://twitter.com/dilettahuyskes_"><img src="/images/people/diletta-huyskes.jpg" class="foto-profilo"></a>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque ipsum et orci malesuada imperdiet. Quisque suscipit, ligula sit amet euismod fermentum, turpis leo facilisis tortor, quis dignissim est massa eu est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget nulla quis nisl pellentesque gravida. Nulla sodales erat sit amet velit maximus, eu lobortis erat porttitor.</p>
+<p>Laureata in Filosofia e dottoranda in Sociologia Digitale alldi di Milano. È la responsabile Advocacy di Privacy Network, associazione nata per la tutela dei diritti digitali con cui ha recentemente progettato l’Osservatorio Amministrazione Automatizzata. Ha lavorato presso la Fondazione Bruno Kessler come assistente ricercatrice sul tema dell'etica e la protezione dei dati in alcuni processi di trasformazione digitale. Studia l'intelligenza artificiale e le nuove tecnologie da una prospettiva etica e politica, concentrandosi sulle disuguaglianze soprattutto di genere e l'uso di algoritmi e software per automatizzare i processi decisionali nella sfera pubblica.</p>
 </div>
 
 <div class="profilo">
