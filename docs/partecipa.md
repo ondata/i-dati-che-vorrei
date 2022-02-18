@@ -26,7 +26,10 @@ Se vuoi inserire qualcosa di simile sul tuo sito, in altri spazi online, ecc., b
 https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fvorrei.datibenecomune.it%2Fdati-che-vorrei%2Fcome-li-vorrei%2F&amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&amp;text=%E2%9E%A1%EF%B8%8FAnche%20io%20Vorrei%20che%20i%20dati%20del%20%23PNRR%20fossero%20cos%C3%AC%20cc%20%40ItaliaDomaniGov&amp;url=https%3A%2F%2Fvorrei.datibenecomune.it%2Fdati-che-vorrei%2Fcome-li-vorrei%2F&amp;via=ondatait%0D%23DatiBeneComune
 ```
 
-![](images/twitter-action.png)
+<figure markdown>
+  ![Image title](images/twitter-action.png)
+  <figcaption>Il tweet che viene generato al click</figcaption>
+</figure>
 
 ## Contatti
 Se vuoi un **contatto diretto** per approfondire, puoi scrivere un'**email** a [info@datibenecomune.it](mailto:info@datibenecomune.it) :material-email:.
