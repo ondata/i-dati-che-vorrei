@@ -1,6 +1,6 @@
 # I dati che Vorrei
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **\#DatiBeneComune** è una campagna nata nel novembre 2020 per chiedere al Governo italiano di pubblicare in formato aperto e accessibile i **dati sulla gestione della pandemia di COVID-19**.
