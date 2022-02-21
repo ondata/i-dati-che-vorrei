@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "pcmasuzzo",
+      "name": "Paola Masuzzo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10747332?v=4",
+      "profile": "https://github.com/pcmasuzzo",
+      "contributions": [
+        "content",
+        "example",
+        "business",
+        "design",
+        "ideas",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "i-dati-che-vorrei",
+  "projectOwner": "ondata",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
