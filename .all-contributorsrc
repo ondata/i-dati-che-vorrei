@@ -1,0 +1,30 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "davidedelmonte",
+      "name": "Davide",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77725115?v=4",
+      "profile": "http://www.infonodes.org",
+      "contributions": [
+        "content",
+        "example",
+        "business",
+        "design",
+        "ideas",
+        "projectManagement",
+        "fundingFinding"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "i-dati-che-vorrei",
+  "projectOwner": "ondata",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
