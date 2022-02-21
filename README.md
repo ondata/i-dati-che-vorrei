@@ -27,6 +27,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/pcmasuzzo"><img src="https://avatars.githubusercontent.com/u/10747332?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paola Masuzzo</b></sub></a><br /><a href="#content-pcmasuzzo" title="Content">🖋</a> <a href="#example-pcmasuzzo" title="Examples">💡</a> <a href="#business-pcmasuzzo" title="Business development">💼</a> <a href="#design-pcmasuzzo" title="Design">🎨</a> <a href="#ideas-pcmasuzzo" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-pcmasuzzo" title="Project Management">📆</a></td>
+    <td align="center"><a href="http://www.infonodes.org"><img src="https://avatars.githubusercontent.com/u/77725115?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Davide</b></sub></a><br /><a href="#content-davidedelmonte" title="Content">🖋</a> <a href="#example-davidedelmonte" title="Examples">💡</a> <a href="#business-davidedelmonte" title="Business development">💼</a> <a href="#design-davidedelmonte" title="Design">🎨</a> <a href="#ideas-davidedelmonte" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-davidedelmonte" title="Project Management">📆</a> <a href="#fundingFinding-davidedelmonte" title="Funding Finding">🔍</a></td>
   </tr>
 </table>
 
