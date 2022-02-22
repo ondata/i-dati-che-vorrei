@@ -7,7 +7,7 @@ title: Presentazioni
 
 # Presentazioni
 
-## 18, febbraio 2022 - Il lancio
+## 18 febbraio 2022 - Il lancio
 
 <div class="video-container">
   <iframe
