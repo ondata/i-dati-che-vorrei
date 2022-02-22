@@ -11,7 +11,7 @@ title: I dati che Vorrei
 
 La campagna è stata accolta sin dall’inizio con entusiasmo da parte di esperti, organizzazioni, testate giornalistiche, che hanno aderito immediatamente all’iniziativa. Ad oggi, **oltre 250 organizzazioni si sono ufficialmente unite all’iniziativa e circa 55.000 cittadini e cittadine hanno firmato la petizione connessa.**
 
-Da maggio 2021, in collaborazione con l’**Osservatorio Civico PNRR**, si chiede l’apertura di tutti i dati relativi al PNRR^[ℹ️](dati-che-vorrei/glossario.md#pnrr-piano-nazionale-di-ripresa-e-resilienza)^  (Piano Nazionale di Ripresa e Resilienza) e, più in generale, l’apertura di tutti i dati di pubblico interesse.
+Da maggio 2021, in collaborazione con l’[**Osservatorio Civico PNRR**](https://www.osservatoriocivicopnrr.it/), si chiede l’apertura di tutti i dati relativi al PNRR^[ℹ️](dati-che-vorrei/glossario.md#pnrr-piano-nazionale-di-ripresa-e-resilienza)^  (Piano Nazionale di Ripresa e Resilienza) e, più in generale, l’apertura di tutti i dati di pubblico interesse.
 
 “I dati che vorrei”, grazie all’intervento di autorevoli esperti ed esperte di diverse realtà della società civile, intende delineare le **caratteristiche e le modalità di pubblicazione dei dati aperti del PNRR**, in modo che le attività di monitoraggio civico siano rese possibili.
 
