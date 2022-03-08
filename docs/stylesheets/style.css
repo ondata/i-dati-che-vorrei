@@ -135,3 +135,13 @@ margin: -4px 0px 0px 0px;
 }
 
 /* per video youtube */
+
+/* centra immagini */
+
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* centra immagini */
