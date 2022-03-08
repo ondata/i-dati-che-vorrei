@@ -22,13 +22,27 @@
 
 {% extends "main.html" %}
 
+{% block htmltitle %}
+<style>
+.md-sidebar--secondary {  display: none;}
+.md-sidebar--primary {  display: none;}
+</style>
+
+<title>Questa pagina non esiste - I dati che Vorrei</title>
+{% endblock %}
+
 <!-- Content -->
 {% block content %}
+
+
+
   <h1>404 - questa pagina è come certi dati ...</h1>
 
   <p>... non esiste 🤣🤣</p>
 
-  <a href="https://xkcd.com/2116/"><img src="/images/404.png" alt="404" class="centerimg"/></a>
+  <div align="center">
+  <a href="https://xkcd.com/2116/"><img src="/images/404.png" alt="404 questa pagina non esiste" /></a>
+</div>
 
 <p>Nota bene: questa è un'immagine del geniale <a href="https://xkcd.com/2116/">xkcd</a>.</p>
 
