@@ -8,6 +8,8 @@ title: Etica dei dati
 
 *di [Valentina Bazzarin](https://twitter.com/VBazzarin), [Diletta Huyskes](https://twitter.com/dilettahuyskes_), [Paola Chiara Masuzzo](https://twitter.com/pcmasuzzo)*
 
+---
+
 Fare in modo che i dati e quello che producono siano etici va ben oltre la conformità: **è un atto di coraggio, e un po’, forse, anche di ribellione**.
 
 La *data science*^[ℹ️](glossario.md#data-science)^ ha evidenti impatti sulla società e sulla vita pubblica. Per questo le sfide legate all’etica devono essere tenute in considerazione nel dibattito e soprattutto nelle politiche e nel governo dei dati e delle infrastrutture digitali e tecnologiche.

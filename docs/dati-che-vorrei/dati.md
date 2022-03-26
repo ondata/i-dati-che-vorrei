@@ -9,6 +9,8 @@ title: Progetti finanziati dal PNRR
 
 *di [Susanna Ferro](https://www.linkedin.com/in/susanna-ferro), [Alberto Pampalone Morisani](mailto:alberto.pampalone@actionaid.org), [Luigi Reggi](https://twitter.com/luigireggi)*
 
+---
+
 Nelle stime relative al Piano Nazionale di Ripresa e Resilienza si calcola che gran parte dei finanziamenti per i progetti (circa il 70%) proverrà da investimenti pubblici.
 
 Appare quindi essenziale che, al fine di garantire l’*accountability*^[ℹ️](glossario.md#accountability)^ sociale e prevenire fenomeni corruttivi promuovendo un attento monitoraggio della società civile, venga attuata una vera e propria **operazione trasparenza** del PNRR italiano.

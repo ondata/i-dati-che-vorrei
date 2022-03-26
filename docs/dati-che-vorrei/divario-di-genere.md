@@ -2,6 +2,8 @@
 
 _A cura di [onData](https://www.ondata.it/) e [Think Tank Period](https://www.thinktankperiod.org/), con il contributo di [Valentina Bazzarin](https://twitter.com/VBazzarin), [Paola Chiara Masuzzo](https://twitter.com/pcmasuzzo), [Guido Romeo](https://twitter.com/guidoromeo) e [Giulia Sudano](https://twitter.com/GiuliaSudano)_
 
+---
+
 Il Piano Nazionale di Ripresa e Resilienza (PNRR) - la proposta italiana per la gestione dei fondi di *Next Generation EU* - si propone, accanto alle missioni di digitalizzazione, transizione ecologica, istruzione, mobilità, e salute, anche quella di “**coesione e inclusione**”. Si propone, cioè, di destinare parte dei fondi alla riduzione delle disuguaglianze di genere, di territorio, e di generazione, attraverso lo **sviluppo di infrastrutture sociali** e la **progettazione di politiche pubbliche**.
 
 Insomma, **non c’è Next Generation senza le donne, il meridione, e i giovani**.
