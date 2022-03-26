@@ -75,6 +75,12 @@ In passato ha svolto attività di consulenza per l'Agenzia per l'Italia Digitale
 </div>
 
 <div class="profilo">
+<h3 class="nome">Guido Romeo</h3>
+<a href="https://twitter.com/guidoromeo"><img src="/images/people/guido-romeo.jpg" class="foto-profilo"></a>
+<p>Guido Romeo, giornalista e autore, è esperto di innovazione ed economia digitale, data journalism e trasparenza dell’informazione. Ha scritto per Il Sole24Ore e Wired. È autore insieme a Emanuela Griglié di <a href="https://www.codiceedizioni.it/libri/per-soli-uomini/">Per Soli Uomini, il maschilismo dei dati, dalla ricerca scientifica al design</a> (Codice, 2021) e di <i>Silenzi di Stato, storie di trasparenza negata e di cittadini che non si arrendono</i> (Chiarelettere, 2016). Ha ricevuto premi nazionali e internazionali.</p>
+</div>
+
+<div class="profilo">
 <h3 class="nome">Davide Taibi</h3>
 <a href="https://twitter.com/dataibi"><img src="/images/people/davide-taibi.jpg" class="foto-profilo"></a>
 <p>Da più di 15 anni ricercatore presso l’Istituto per le Tecnologie Didattiche del Consiglio Nazionale delle Ricerche, e dal 2016 docente per l’insegnamento di Tecniche per la gestione degli Open Data, nel corso di studi in Informatica dell’Università degli Studi di Palermo. I suoi principali interessi di ricerca riguardano: mobile learning, augmented reality for education, Learning Analytics, Semantic Web e Linked Data per l'e-learning e gli standard per la progettazione dei processi educativi. Dal 2019 coordina due progetti finanziati dalla comunità europea sul tema della Data Literacy.</p>
