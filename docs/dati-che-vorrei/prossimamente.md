@@ -10,7 +10,6 @@ title: Prossime pubblicazioni
 
     Stiamo lavorando su altre tre sezioni, che pubblicheremo nelle prossime settimane, relative ad alcuni degli [**obiettivi trasversali del PNRR**](https://www.governo.it/it/approfondimento/gli-obiettivi-trasversali/16784), e in particolare sul:
 
-    - **divario** di **genere**;
     - **divario** **generazionale**;
     - **divario** **territoriale**.
 
