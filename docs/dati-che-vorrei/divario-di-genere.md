@@ -1,3 +1,7 @@
+---
+og_title: "PNRR: Parità di genere"
+---
+
 # Non c’è ripresa senza equità
 
 _A cura di [onData](https://www.ondata.it/) e [Think Tank Period](https://www.thinktankperiod.org/), con il contributo di [Valentina Bazzarin](https://twitter.com/VBazzarin), [Paola Chiara Masuzzo](https://twitter.com/pcmasuzzo), [Guido Romeo](https://twitter.com/guidoromeo) e [Giulia Sudano](https://twitter.com/GiuliaSudano)_
