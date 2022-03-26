@@ -39,6 +39,12 @@ title: "Glossario"
 
     Un formato di dati reso pubblico, documentato esaustivamente e neutro rispetto agli strumenti tecnologici necessari per la fruizione dei dati stessi.
 
+### Gender mainstreaming
+
+!!! note "Fonte: [European Institute for Gender Equality](https://eige.europa.eu/thesaurus/terms/1185?lang=it)"
+
+    Considerazione sistematica della prospettiva di genere e quindi delle differenze tra le donne e gli uomini in termini di punti di vista, condizioni, situazione e necessità in tutte le politiche e le azioni.
+
 ### Identificatori persistenti
 
 !!! note "Fonte: [Università Cattolica del Sacro Cuore](https://unicatt.libguides.com/identificativi_permanenti)"
@@ -86,6 +92,12 @@ title: "Glossario"
 !!! note "Fonte: [Lessico del XXI Secolo | Treccani](https://www.treccani.it/enciclopedia/ontologia-informatica_%28Lessico-del-XXI-Secolo%29/)"
 
     Nella progettazione di software o di database fondati su programmi che gestiscono basi di conoscenza, un'ontologia informatica viene stabilita strutturando gerarchicamente un insieme di concetti e definendone e descrivendone le relazioni semantiche
+
+### Open Government Partnership
+
+!!! note "Fonte: [Open Government Partnership Italia](https://open.gov.it/)"
+
+    Iniziativa internazionale multilaterale, avviata nel 2011 su proposta di Barack Obama, presidente degli Stati Uniti con intento di creare una piattaforma per i riformatori nazionali e locali per promuovere i processi di apertura delle amministrazioni e di fornire una sede di confronto stabile tra Governi, amministratori e società civile.
 
 ### PNRR (Piano Nazionale di Ripresa e Resilienza)
 
