@@ -45,6 +45,12 @@ title: "Glossario"
 
     Considerazione sistematica della prospettiva di genere e quindi delle differenze tra le donne e gli uomini in termini di punti di vista, condizioni, situazione e necessità in tutte le politiche e le azioni.
 
+### Gender procurement
+
+!!! note "Fonte: [European Institute for Gender Equality](https://eige.europa.eu/thesaurus/terms/1201?lang=it)"
+
+    Introduzione dei requisiti della parità di genere negli appalti pubblici, per utilizzare questi ultimi come uno strumento di promozione della parità di genere.
+
 ### Identificatori persistenti
 
 !!! note "Fonte: [Università Cattolica del Sacro Cuore](https://unicatt.libguides.com/identificativi_permanenti)"

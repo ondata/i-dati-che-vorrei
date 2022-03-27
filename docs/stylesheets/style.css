@@ -135,3 +135,17 @@ margin: -4px 0px 0px 0px;
 }
 
 /* per video youtube */
+
+/* icona pulsante */
+@keyframes lampada {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.lampada {
+  animation: lampada 1000ms infinite;
+  color: #1DA1F2;
+}
