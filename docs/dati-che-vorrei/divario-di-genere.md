@@ -33,9 +33,7 @@ Se si guarda, ad esempio, alle posizioni manageriali, non solo si trovano sempre
 
 Questo è un fenomeno conosciuto come *glass ceiling*, il soffitto di vetro che impedisce alle donne di avanzare professionalmente. Ma per capire le profonde disuguaglianze di genere che affliggono l’Europa tutta e il nostro Paese in particolare, e che vanno oltre alla dimensione della retribuzione, toccando estese opportunità di vita, guardare il soffitto non è abbastanza. Bisogna guardare tutta la casa, partendo dal piano più basso.
 
-Per questo si parla anche di *sticky floor*, un pavimento appiccicoso che blocca le donne, imprigionandole in spazi ristretti, ed escludendole dalla piena partecipazione alla politica e alla produzione economica. E così l’11% delle donne lascia il proprio lavoro dopo il primo figlio/la prima figlia, il 17% dopo il secondo e il 19% dopo il terzo[^2].
-
-[^2]: <https://www.weworld.it/news-e-storie/news/occupazione-femminile-ed-empowerment>
+Per questo si parla anche di *sticky floor*, un pavimento appiccicoso che blocca le donne, imprigionandole in spazi ristretti, ed escludendole dalla piena partecipazione alla politica e alla produzione economica. E così l’11% delle donne lascia il proprio lavoro dopo il primo figlio/la prima figlia, il 17% dopo il secondo e il 19% dopo [il terzo](https://www.weworld.it/news-e-storie/news/occupazione-femminile-ed-empowerment).
 
 E sempre da Ipsos, attraverso [un’indagine condotta per WeWorld Onlus](https://www.weworld.it/cosa-facciamo/pubblicazioni/la-condizione-economica-delle-donne-in-epoca-covid-19_brief-report), arriva una fotografia della condizione economica (e non solo) delle donne, nella quale alle criticità di sempre si sommano gli effetti della pandemia COVID. A causa della pandemia, il 50% delle donne ha guadagnato di meno; più del 40% dipende dalla famiglia o dal partner in misura maggiore rispetto al passato; il 28% delle donne madri non occupate rinuncia a cercare lavoro; ancora, il 40% delle donne si fa carico delle persone non autonome.
 
