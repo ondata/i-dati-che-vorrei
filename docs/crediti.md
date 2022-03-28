@@ -67,6 +67,13 @@ In passato ha svolto attività di consulenza per l'Agenzia per l'Italia Digitale
 <p>Expert accountability&transparency per Action Aid Italia. Ha lavorato per la cooperazione internazionale, sia in Italia che all’estero (Perù, Sud America), per poi collaborare come legal&policy officer con le pubbliche istituzioni, dapprima presso il Dip. politiche europee della Presidenza del Consiglio e, in seguito, per l’EASO (Ufficio della Commissione europea di supporto all’asilo e alla protezione internazionale) presso il Ministero dell’Interno, dove si è occupato, tra gli altri, di trasparenza, FOIA, accesso agli atti e accessi civici generalizzati.</p>
 </div>
 
+<div class="profilo">
+<h3 class="nome">Giulia Sudano</h3>
+<a href="https://twitter.com/GiuliaSudano"><img src="/images/people/Giulia-Sudano.jpg" class="foto-profilo"></a>
+<p>Laureata in Scienze Internazionali e Diplomatiche presso l’Università di Bologna. Dopo aver conseguito un Master in Comunicazione, raccolta fondi e campaigning, lavora dal 2013 a Bologna presso la <strong>Fondazione OPIMM Onlus</strong> di Bologna come referente Sviluppo e comunicazione.</p>
+<p>È stata fondatrice e presidente dal 2010 al 2017 dell’<strong>Associazione Candidamente</strong> che promuove la cittadinanza attiva a Bologna. Dal 2017 al 2020, è stata <strong>presidente dell’Associazione Orlando</strong> che ha ideato e gestisce il Centro delle Donne in convenzione con il Comune di Bologna. Da dicembre 2020 è fra le fondatrici e Presidente di Period Think Tank, che promuove l&#39;equità di genere attraverso un approccio femminista ai dati. Partecipa come <strong>attivista a numerose reti locali e nazionali</strong> per combattere le disuguaglianze di genere.</p>
+</div>
+
 
 <div class="profilo">
 <h3 class="nome">Luigi Reggi</h3>
