@@ -19,4 +19,4 @@ Nelle prossime settimane saranno pubblicati altri dossier incentrati sulle prior
 
 \#DatiBeneComune **chiede** dunque che si **passi** finalmente **dalla teoria alla pratica**, **dalle parole ai fatti,** dalle buone intenzioni alla vera trasparenza e partecipazione. E **con spirito** **costruttivo**, **collaborativo**, **partecipativo**, suggerisce come farlo.
 
-[Leggi :fontawesome-brands-readme:](dati-che-vorrei){ .md-button .md-button--primary } [Scarica :fontawesome-solid-file-pdf:](risorse/I%20dati%20che%20vorrei.pdf){ .md-button } [Presentazioni :octicons-video-24:](presentazioni){ .md-button }
+[Leggi :fontawesome-brands-readme:](dati-che-vorrei){ .md-button .md-button--primary } [Scarica :fontawesome-solid-file-pdf:{ .rosso }](risorse/I%20dati%20che%20vorrei.pdf){ .md-button } [Presentazioni :octicons-video-24:](presentazioni){ .md-button }
