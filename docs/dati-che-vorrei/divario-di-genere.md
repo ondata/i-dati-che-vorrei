@@ -1,5 +1,6 @@
 ---
 og_title: "PNRR: Parità di genere"
+og_image: divario-di-genere.png
 ---
 
 # Non c’è ripresa senza equità
@@ -159,6 +160,8 @@ Non disporre oggi di tutti i dati disaggregati per genere dal livello nazionale 
 Per questo motivo riteniamo essenziale una mobilitazione di tutti i soggetti che a diverso titolo si occupano del contrasto alle disuguaglianze di genere, per richiedere alle istituzioni (dal governo fino ai comuni) gli investimenti necessari per produrre statistiche di genere a tutti i livelli amministrativi disponibili in formato aperto e interoperabili.
 
 :bulb:{ .lampada } Tutto **ciò che non misuriamo** **rimane invisibile**, è una scelta politica che non possiamo più permettere.
+
+[Vorrei che fossero così :fontawesome-brands-twitter:](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fvorrei.datibenecomune.it%2Fdati-che-vorrei%2Fdivario-di-genere%2F&amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&amp;text=%E2%9E%A1%EF%B8%8FAnche%20io%20Vorrei%20che%20i%20dati%20del%20%23PNRR%20fossero%20cos%C3%AC%20cc%20%40ItaliaDomaniGov&amp;url=https%3A%2F%2Fvorrei.datibenecomune.it%2Fdati-che-vorrei%2Fdivario-di-genere%2F&amp;via=ondatait%0D%23DatiBeneComune){ .md-button .md-button--primary }
 
 ---
 
