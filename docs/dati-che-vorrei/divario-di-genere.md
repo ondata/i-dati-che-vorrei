@@ -148,7 +148,7 @@ Oltre alla pubblicazione dei dati, si raccomanda inoltre di:
 
   - Rendere premiale la trasparenza dei dati da parte delle imprese. Il MEPA può diventare un'importante fonte di dati e informazioni sulle imprese impegnate per una maggiore equità di genere.
 
-## CONCLUSIONI
+## Conclusioni
 
 La raccolta e l’analisi di dati disaggregati per genere e liberi da stereotipi, disponibili in formato aperto, interoperabili e disponibili a tutti i livelli territoriali, da quello nazionale a quello comunale, dovrebbe essere la base per poter costruire qualsiasi programmazione e azione politica realmente efficace per le diverse esigenze presenti nelle società a seconda del genere, dell’età, della classe, della provenienza, delle diverse abilità etc.
 
