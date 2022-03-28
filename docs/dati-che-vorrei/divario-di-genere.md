@@ -1,5 +1,6 @@
 ---
 og_title: "PNRR: Parità di genere"
+title: "PNRR: Parità di genere"
 og_image: divario-di-genere.png
 ---
 
