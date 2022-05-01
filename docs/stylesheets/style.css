@@ -160,9 +160,10 @@ margin: -4px 0px 0px 0px;
   color: #d70000;
 }
 
-/*menu divario di genere al lancio*/
+/*menu divario di genere al lancio
 
 :nth-child(4) .md-nav__link {
   color: #ff9100 !important;
   opacity: 1 !important;
 }
+*/
