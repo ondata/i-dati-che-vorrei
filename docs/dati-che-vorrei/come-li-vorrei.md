@@ -77,3 +77,5 @@ Si vuole infine evidenziare la necessità di uniformarsi alle linee guida nazion
     8. Piano Triennale per l'informatica nella Pubblica Amministrazione ([link](https://pianotriennale-ict.italia.it/))
 
     9. Strategia europea in materia di dati ([link](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_it))
+
+    10. Publications Office, Data.europa.eu data quality guidelines, Publications Office, 2021,  ([link](https://data.europa.eu/doi/10.2830/79367))
