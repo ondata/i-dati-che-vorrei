@@ -58,7 +58,7 @@ Anche per questi motivi la società civile italiana ha dimostrato più volte la 
 
 Il problema è che per farlo… ha bisogno di dati.
 
-Anche su questo fronte, purtroppo, le lacune sono molte: i dati messi a disposizione della cittadinanza per monitorare il PNRR sono pochi, pubblicati in ritardo e spesso in formato non machine-readable^[ℹ️](glossario.md#machine-readable).
+Anche su questo fronte, purtroppo, le lacune sono molte: i dati messi a disposizione della cittadinanza per monitorare il PNRR sono pochi, pubblicati in ritardo e spesso in formato non machine-readable^[ℹ️](glossario.md#machine-readable)^.
 
 Il [Global Open Data Index](https://index.okfn.org/place/) pubblicato da Open Knowledge Foundation posiziona l’Italia al 32esimo posto della sua classifica globale, assegnandole una valutazione del 47% rispetto alla quantità e qualità di open data pubblicati. L’indicatore peggiore per l’Italia è proprio quello relativo al "Government [Spending](https://index.okfn.org/dataset/spending)” cioè ai dati in grado di mostrare se il denaro pubblico viene utilizzato in modo efficiente ed efficace.
 
