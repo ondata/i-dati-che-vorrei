@@ -47,10 +47,8 @@ nav:
     - "Dati: come li vorrei": dati-che-vorrei/come-li-vorrei.md
     - Etica dei dati: dati-che-vorrei/etica-dei-dati.md
     - Divario di genere: dati-che-vorrei/divario-di-genere.md
+    - Equità generazionale e territoriale: dati-che-vorrei/divario-generazionale-territoriale.md
     - Glossario: dati-che-vorrei/glossario.md
-    - Prossime pubblicazioni:
-      - Divario generazionale: dati-che-vorrei/prossimamente.md
-      - Divario territoriale: dati-che-vorrei/prossimamente.md
   - Partecipa: partecipa.md
   - Presentazioni: presentazioni.md
   - Crediti: crediti.md
@@ -116,6 +114,6 @@ markdown_extensions:
 - pymdownx.tilde
 - toc:
       permalink: true
-      toc_depth: 3
+      toc_depth: 4
 - pymdownx.arithmatex:
       generic: true

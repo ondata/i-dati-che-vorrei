@@ -29,6 +29,13 @@ Al momento è consulente per il supporto specialistico sui dati aperti.
 </div>
 
 <div class="profilo">
+<h3 class="nome">Patrizia Caruso</h3>
+<a href="https://www.linkedin.com/in/patrizia-caruso-5a354824/"><img src="/images/people/patrizia-caruso.jpg" class="foto-profilo"></a>
+<p>Laureata in sociologia e con un master in Cooperazione e sviluppo internazionale, ha una lunga esperienza in coordinamento di programmi e progetti per diverse Ong sia in Italia che all’estero. Per ActionAid ha coordinato dal 2018  il programma di partenariati ed alleanze territoriali, per il rafforzamento e la messa in rete delle organizzazioni della società civile locali. Attualmente coordina l’Unità Resilience di ActionAid Italia.
+</p>
+</div>
+
+<div class="profilo">
 <h3 class="nome">Davide Del Monte</h3>
 <a href="https://twitter.com/Davidovskij"><img src="/images/people/davide-del-monte.jpg" class="foto-profilo"></a>
 <p>Ha lavorato oltre 10 anni per Transparency International Italia, di cui è stato direttore esecutivo dal 2015 al 2020. Dal 2021 collabora con diverse organizzazioni no profit che si occupano di tematiche sociali, di trasparenza e di diritti umani. Nel 2019 ha fondato l’associazione info.nodes di cui è attualmente presidente. Da marzo 2021 collabora con onData come coordinatore della campagna #DatiBeneComune.</p>
@@ -62,6 +69,15 @@ In passato ha svolto attività di consulenza per l'Agenzia per l'Italia Digitale
 </div>
 
 <div class="profilo">
+<h3 class="nome">Alessandro Mondino</h3>
+<a href="https://www.labsus.org/"><img src="/images/people/alessandro-mondino.jpg" class="foto-profilo"></a>
+<p>Si occupa da tempo di sviluppo locale e project management.
+Ha studiato e seguito progetti di cooperazione internazionale, processi partecipativi e azioni di sviluppo locale al sud e al nord, in Italia e all’estero. Ha lavorato in grandi aziende, in parchi naturali, attività commerciali, Ong ed enti del terzo settore.
+Esperto di approcci collaborativi, ama costruire ponti e reti sui territori. È il coordinatore nazionale di LABSUS - Laboratorio per la sussidiarietà
+</p>
+</div>
+
+<div class="profilo">
 <h3 class="nome">Alberto Pampalone Morisani</h3>
 <img src="/images/people/alberto-pampalone-morisani.jpg" class="foto-profilo">
 <p>Expert accountability&transparency per Action Aid Italia. Ha lavorato per la cooperazione internazionale, sia in Italia che all’estero (Perù, Sud America), per poi collaborare come legal&policy officer con le pubbliche istituzioni, dapprima presso il Dip. politiche europee della Presidenza del Consiglio e, in seguito, per l’EASO (Ufficio della Commissione europea di supporto all’asilo e alla protezione internazionale) presso il Ministero dell’Interno, dove si è occupato, tra gli altri, di trasparenza, FOIA, accesso agli atti e accessi civici generalizzati.</p>
@@ -71,6 +87,15 @@ In passato ha svolto attività di consulenza per l'Agenzia per l'Italia Digitale
 <h3 class="nome">Luigi Reggi</h3>
 <a href="https://twitter.com/luigireggi"><img src="/images/people/luigi-reggi.jpg" class="foto-profilo"></a>
 <p>Ha esperienza di ricerca e analisi delle politiche pubbliche in tema di trasparenza, digital government e open data. Da oltre 15 anni si occupa di fondi europei presso i centri di competenza nazionale. PhD in Public Administration and Policy presso la State University of New York at Albany (USA).</p>
+</div>
+
+<div class="profilo">
+<h3 class="nome">Stefano Stortone</h3>
+<a href="https://it.linkedin.com/in/stefano-stortone"><img src="/images/people/stefano-stortone.jpg" class="foto-profilo"></a>
+<p>PhD in Istituzioni e Politiche, fondatore e amministratore di BiPart, si occupa da oltre 10 anni di democrazia ed e-democracy studiando, progettando e realizzando in varie comunità locali nuove forme di interazione e di istituzioni democratiche, tra cui i bilanci partecipativi, anche attraverso l'uso delle tecnologie informatiche.
+Recentemente ha lavorato all'interno del progetto europeo H2020 EMPATIA (empatia-project.eu), fornendo la consulenza metodologica per il processo di bilancio partecipativo del Comune di Milano.
+Tra i vari progetti attivi, coordina Idee in fuga, il primo bilancio partecipativo in un carcere ed in crowdfunding ed un seminario sugli stessi temi in collaborazione con l'Università degli Studi di Milano.
+</p>
 </div>
 
 <div class="profilo">
