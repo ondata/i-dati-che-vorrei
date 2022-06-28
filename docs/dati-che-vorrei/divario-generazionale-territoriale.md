@@ -5,7 +5,7 @@ title: Equità generazionale e territoriale
 ---
 
 A cura di [onData](https://www.ondata.it/), [ActionAid Italia](https://www.actionaid.it/), [BiPart](https://www.bipart.it/), [Labsus](https://www.labsus.org/).<br>
-Hanno contribuito alla stesura di questo dossier: [Andrea Borruso](https://twitter.com/aborruso), [Davide Del Monte](https://twitter.com/Davidovskij), [Stefano Stortone](https://it.linkedin.com/in/stefano-stortone), Alessandro Modino, [Sara Cavaliere](https://it.linkedin.com/in/sara-cavaliere-547054193), [Patrizia Caruso](https://www.linkedin.com/in/patrizia-caruso-5a354824/).
+Hanno contribuito alla stesura di questo dossier: [Andrea Borruso](https://twitter.com/aborruso), [Davide Del Monte](https://twitter.com/Davidovskij), [Stefano Stortone](https://it.linkedin.com/in/stefano-stortone), [Alessandro Mondino](https://www.facebook.com/alessandro.mondino.37), [Sara Cavaliere](https://it.linkedin.com/in/sara-cavaliere-547054193), [Patrizia Caruso](https://www.linkedin.com/in/patrizia-caruso-5a354824/).
 
 ---
 
