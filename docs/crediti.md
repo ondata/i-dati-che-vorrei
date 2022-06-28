@@ -98,10 +98,8 @@ Esperto di approcci collaborativi, ama costruire ponti e reti sui territori. È 
 
 <div class="profilo">
 <h3 class="nome">Stefano Stortone</h3>
-<a href="https://it.linkedin.com/in/stefano-stortone"><img src="/images/people/stefano-stortone.jpg" class="foto-profilo"></a>
-<p>PhD in Istituzioni e Politiche, fondatore e amministratore di BiPart, si occupa da oltre 10 anni di democrazia ed e-democracy studiando, progettando e realizzando in varie comunità locali nuove forme di interazione e di istituzioni democratiche, tra cui i bilanci partecipativi, anche attraverso l'uso delle tecnologie informatiche.
-Recentemente ha lavorato all'interno del progetto europeo H2020 EMPATIA (empatia-project.eu), fornendo la consulenza metodologica per il processo di bilancio partecipativo del Comune di Milano.
-Tra i vari progetti attivi, coordina Idee in fuga, il primo bilancio partecipativo in un carcere ed in crowdfunding ed un seminario sugli stessi temi in collaborazione con l'Università degli Studi di Milano.
+<a href="https://www.linkedin.com/in/stefano-stortone "><img src="/images/people/stefano-stortone.jpg" class="foto-profilo"></a>
+<p>Stefano Stortone è attivista civico, ricercatore politico e imprenditore sociale. Prima di fondare BiPart, ha conseguito una laurea (2005) e un dottorato di ricerca (2010) in scienze politiche presso l'Università Cattolica di Milano, un Master in Democratic Studies presso l'Università di Leeds (2010) ed ha diretto il Centro Studi per la Democrazia Partecipativa con cui ha avviato e curato le sperimentazioni dei primi processi partecipativi e lo sviluppo del primo prototipo della piattaforma BiPart. Dal 2013 al 2018 è stato ricercatore PostDoc presso il Laboratorio di Informatica Civica (LIC) dell'Università degli Studi di Milano, lavorando per il progetto H2020 EMPATIA e il bilancio partecipativo del Comune di Milano. In BiPart è responsabile scientifico e coordinatore dei principali progetti di partecipazione.
 </p>
 </div>
 
