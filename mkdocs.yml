@@ -29,6 +29,7 @@ theme:
     - navigation.sections
     - navigation.tracking
     - navigation.indexes
+    - navigation.footer
   font:
     text: Montserrat
   custom_dir: overrides
